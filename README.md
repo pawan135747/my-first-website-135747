@@ -1,124 +1,37 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>submited form</title>
-        <style>
-            body {
-                background-color: skyblue;
-            }
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pawan Puri's First Website</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #333;
+      font-size: 3rem;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Pawan's Website!</h1>
+  <p>This is my first webpage hosted on GitHub Pages. 😄</p>
+  <p>I am learning HTML, Tally, and Spoken English!</p>
 
-            h1 {
-            color: hotpink;
-
-            }
-
-            table th tr, tr td  {
-                border: 1px solid;
-
-            }
-            nav {
-                text-align: right;
-                background-color: white;
-                height: 50px;
-            }
-            a {
-             color: crimson;
-            }
-            
-        </style>
-    </head>
-    <body text="darkblue">
-        <nav>
-         <a href="FORM3.html" aria-valuetext="next">Next</a></nav>
-        <h1><marquee>✅YOUR FORM IS SUBMITED SUCCESSFULY✅</marquee></h1>
-        <hr color="black">
-        <br><br><br>
-        <center>
-            <h3>
-                <table>
-                    <caption>Table:1.1 The Data Of Rural and Urban People:</caption>
-                    <thead>
-                        <th>
-                        <tr>
-                            <td>Sr.No.</td>
-                            <td>State</td>
-                            <td>Rural</td>
-                            <td>Urban</td>
-                            <td>Total</td>
-                        </tr>
-                        </th>
-                    </thead>
-                    <tbody>
-                        <th>
-                        <tr>
-                            <td>1.</td>
-                            <td>Rajsthan</td>
-                            <td>65</td>
-                            <td>35</td>
-                            <td>100</td>
-                        </tr>
-                        </th>
-                        <th>
-                        <tr>
-                            <td>2.</td>
-                            <td>Panjab</td>
-                            <td>55</td>
-                            <td>45</td>
-                            <td>100</td>
-                        </tr>
-                        </th>
-                        <th>
-                        <tr>
-                            <td>3.</td>
-                            <td>Hariyana</td>
-                            <td>56</td>
-                            <td>44</td>
-                            <td>100</td>
-                        </tr>
-                        </th>
-                        <th>
-                        <tr>
-                            <td>4.</td>
-                            <td>Uttar-pardesh</td>
-                            <td>53</td>
-                            <td>47</td>
-                            <td>100</td>
-                        </tr>
-                        </th>
-                        <th>
-                        <tr>
-                            <td>5.</td>
-                            <td>Gujrat</td>
-                            <td>50</td>
-                            <td>50</td>
-                            <td>100</td>
-                        </tr>
-                        </th>
-                        <th>
-                        <tr>
-                            <td>6.</td>
-                            <td>Maharastra</td>
-                            <td>45</td>
-                            <td>55</td>
-                            <td>100</td>
-                        </tr>
-                        </th>
-                    </tbody>
-                    <tfoot>
-                        <th>
-                        <tr>
-                            <td>7.</td>
-                            <td>delhi</td>
-                            <td>55</td>
-                            <td>45</td>
-                            <td>100</td>
-                        </tr>
-                        </th> 
-                    </tfoot>
-                </table>
-                 <a><h4>Sorce:This is not a registered data.</h4></a>
-            </h3>
-        </center>
-        
-    </body>
+  <footer>© 2025 Pawan Puri</footer>
+</body>
 </html>
+
